@@ -7,6 +7,8 @@ tap caskroom/cask
 
 tap caskroom/versions
 
+tap homebrew/bundle
+
 tap homebrew/core
 
 tap homebrew/versions
